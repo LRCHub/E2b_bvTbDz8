@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "太陽になれるかな",
+  "base_artist": "ツユ",
+  "createdAt": "2026-03-14T15:05:47.209096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "太陽になれるかな",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_太陽になれるかな_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "07. 太陽になれるかな",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/02_07._太陽になれるかな_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "太陽になれるかな",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/03_太陽になれるかな_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ツユ - 太陽になれるかな MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/04_ツユ_-_太陽になれるかな_MV_TUYU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ツユ - 太陽になれるかな MV",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/05_ツユ_-_太陽になれるかな_MV_ツユ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽になれるかな",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_01_太陽になれるかな_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "太陽になれるかな",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_02_太陽になれるかな_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "太陽になれるかな",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_03_太陽になれるかな_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "太陽になれるかな",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_04_太陽になれるかな_つゆ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "太陽になれるかな",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_05_太陽になれるかな_つゆ.txt"
+    }
+  ]
+}
